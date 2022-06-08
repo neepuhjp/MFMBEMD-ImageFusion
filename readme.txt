@@ -2,7 +2,7 @@
 
 **Dear Researchers:**
 
-This is the Matlab code of our paper  entitled [Novel and Fast EMD-based Image Fusion via Morphological Filter]
+This is the Matlab code of our paper  entitled [Novel and Fast EMD-based Image Fusion via Morphological Filter], which has been accepted by the journla of The Visual Computer in 2022.
 
 batchImgPatchFusionMain.m is used to test our method for many pairs of source images;
 
