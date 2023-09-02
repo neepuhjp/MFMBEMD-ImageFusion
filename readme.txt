@@ -6,7 +6,8 @@ This package contains the MATLAB code which is associated with the following pap
 
 Authors: Qi Xie, Jianping Hu, Xiaochao Wang, Daochang Zhang,  Hong Qin .
 
-Usage of this code is only free for research purposes. Please refer to the above publication if you use this code. 
+Usage of this code is only free for research purposes.  If you use this code, please refer to the above publication according to the following formula: 
+Xie, Q., Hu, J., Wang, X. et al. Novel and fast EMD-based image fusion via morphological filter. Vis Comput 39, 4249–4265 (2023). https://doi.org/10.1007/s00371-022-02588-x
 
 Code edited by Jianping Hu, email: neduhjp307@163.com,  Northeast Electric Power University.
 
